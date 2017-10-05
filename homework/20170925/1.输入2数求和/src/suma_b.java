@@ -3,16 +3,15 @@ import java.util.Scanner;
 public class suma_b {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//1.	±àĞ´Ò»¸öJAVAÓ¦ÓÃ³ÌĞò£¬ÒªÇó´Ó¼üÅÌÊäÈë2¸öÕûÊı£¬¼ÆËãÕâÁ½¸öÊı¾İÖ®ºÍ²¢Êä³ö¡£
-				Scanner s1 = new Scanner(System.in);
-				Scanner s2= new Scanner(System.in);
-				System.out.println("ÊäÈë2¸öÕûÊı");
-				int num1 = s1.nextInt();
-				int num2 = s2.nextInt();
-				int sum=num1+num2;
-				System.out.println(num1+"+"+num2+"="+sum);
-
+	// TODO Auto-generated method stub
+	//1.	ç¼–å†™ä¸€ä¸ªJAVAåº”ç”¨ç¨‹åºï¼Œè¦æ±‚ä»é”®ç›˜è¾“å…¥2ä¸ªæ•´æ•°ï¼Œè®¡ç®—è¿™ä¸¤ä¸ªæ•°æ®ä¹‹å’Œå¹¶è¾“å‡ºã€‚
+		Scanner s1 = new Scanner(System.in);
+		Scanner s2= new Scanner(System.in);
+		System.out.println("è¾“å…¥2ä¸ªæ•´æ•°");
+		int num1 = s1.nextInt();
+		int num2 = s2.nextInt();
+		int sum=num1+num2;
+		System.out.println(num1+"+"+num2+"="+sum);
 	}
 
 }
