@@ -1,0 +1,15 @@
+
+public class TestMyTime {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		MyTime time = new MyTime(11, 9, 16);
+		System.out.println(time.toString());
+		time.addHour(14);
+		time.addMinute(60);
+		time.addSecond(50);
+		System.out.println(time.toString());
+		//time.subHour();
+	}
+
+}

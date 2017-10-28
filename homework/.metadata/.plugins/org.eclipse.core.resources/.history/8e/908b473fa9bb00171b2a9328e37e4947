@@ -1,0 +1,39 @@
+package test;
+
+class Rec extends shape2D
+{
+	int length,wide;
+	String name2;
+	Rec(String name, int l,int w)
+	{
+		this.name2=super(name);
+		this.length=l;
+		this.wide=w;
+	}
+	public double area() {
+		// TODO 自动生成的方法存根
+		return length*wide;
+	}
+	@Override
+	public double zc() {
+		// TODO 自动生成的方法存根
+		return 2*(length+wide);
+	}
+	
+	@Override
+	public void getName() {
+		// TODO Auto-generated method stub
+		return name;
+	}
+	@Override
+	public void setName() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	public String Display() {
+		// TODO 自动生成的方法存根
+		return "矩形的"/*+this.name2+*/+"长:"+length+",宽:"+wide+",周长："+zc()+",面积："+area();
+	}
+}

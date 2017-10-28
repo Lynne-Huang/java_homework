@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/1、定义一个MyPlus类，MyPlus类有三个plus()方法，分别对不同的参数进行求和。/src/TestMyPlus.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="TestMyPlus"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="1、定义一个MyPlus类，MyPlus类有三个plus()方法，分别对不同的参数进行求和。"/>
+</launchConfiguration>

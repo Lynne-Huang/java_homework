@@ -1,0 +1,29 @@
+
+public class TestCard {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/*String flower[] = {"·½¿é","Ã·»¨","ºìÐÄ","ºÚÌÒ"};
+		String num[] = {"3","4","5","6","7","8","9","10","J","Q","K","A","2"};
+		StringBuffer ka[][]=new StringBuffer[4][];
+		for(int i=0;i<flower.length;i++)
+		{
+			for(int j=0;j<num.length;j++)
+			{
+				ka[i][j]=flower[i]+num[j];
+			}
+		}
+		for(int i=0;i<flower.length;i++)
+		{
+			for(int j=0;j<num.length;j++)
+			{
+				System.out.print(ka[i][j]);
+			}
+			System.out.println();
+		}*/
+		Card k = new Card("2","ºìÌÒ");
+		System.out.println(k.toString());
+		
+	}
+
+}
