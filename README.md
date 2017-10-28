@@ -9,8 +9,8 @@
     * 以及if-else嵌套
     * switch-case练习
 * 9.27
-    * for、while、do-while的练习
-    * 一维数组的动态赋值
+    * for、while、do-while的练习
+    * 一维数组的动态赋值
 *  9.30
     * 二维数组的动态赋值
     * 字符串的输出
