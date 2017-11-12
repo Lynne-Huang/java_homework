@@ -1,0 +1,23 @@
+package Êı×éÒì³£;
+
+import java.util.Scanner;
+
+//import com.sun.java_cup.internal.runtime.Scanner;
+
+
+public class testAnArrayOfException {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner input = new Scanner(System.in);
+		int [] num = new int[5];
+		for(int i=0;i<num.length;i++){
+			//try{
+			num[i]=input.nextInt();
+			System.out.println(num[i]);
+			//}
+			
+		}
+	}
+
+}
