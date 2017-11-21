@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item value="filter_imports;" key="filters_last_used"/>
-	<item value="D:\JAVA\java_homework\homework\20171106\2、编写程序，要求输入若干整数，输入的同时计算前面输入各数的乘积，如乘积超过10000，则认为是异常，捕获并处理这个异常，输出信息。" key="org.eclipse.jdt.ui.last.external.project"/>
+	<item value="D:\JAVA\java_homework\homework\20171106\3、利用随机函数生成10个随机数，并将它们分别存入到一个HashSet 和TreeSet中，然后输出，比较结果。" key="org.eclipse.jdt.ui.last.external.project"/>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="false" key="renameSubpackages"/>
+		<item value="false" key="updateQualifiedNames"/>
+		<item value="*" key="patterns"/>
+		<item value="false" key="updateTextualMatches"/>
+	</section>
 	<section name="DialogBounds_SuperInterfaceSelectionDialog">
 		<item value="535" key="DIALOG_WIDTH"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>

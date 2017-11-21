@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;homew&apos; to &apos;homework&apos;&#x0D;&#x0A;- Original project: &apos;3、利用随机函数生成10个随机数，并将它们分别存入到一个HashSet 和TreeSet中，然后输出，比较结果。&apos;&#x0D;&#x0A;- Original element: &apos;3、利用随机函数生成10个随机数，并将它们分别存入到一个HashSet 和TreeSet中，然后输出，比较结果。/src/homew&apos;&#x0D;&#x0A;- Renamed element: &apos;3、利用随机函数生成10个随机数，并将它们分别存入到一个HashSet 和TreeSet中，然后输出，比较结果。/src/homework&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;homew&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;homew" name="homework" qualified="false" references="true" stamp="1511276020013" textual="false" version="1.0"/>
+</session>
