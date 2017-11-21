@@ -1,5 +1,5 @@
-colorDefault=211,215,207
-colorNull=211,215,207
-colorString=237,212,0
+colorDefault=248,248,242
+colorNull=248,248,242
+colorString=230,219,116
 colorValue=190,214,255
 eclipse.preferences.version=1

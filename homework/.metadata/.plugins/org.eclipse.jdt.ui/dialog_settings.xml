@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item value="D:\JAVA\java_homework\homework\20171030" key="org.eclipse.jdt.ui.last.external.project"/>
+	<item value="filter_imports;" key="filters_last_used"/>
+	<item value="D:\JAVA\java_homework\homework\20171030\4、从命令行得到5个整数，放入一整形数组，然后打印输出，要求：如果输入数据不为整数，要捕获Integer.parseInt()产生的异常，显示“请输入整数”,捕获输入参数不足5个的异常（数组越界），显示“请输入至少5个整数”。" key="org.eclipse.jdt.ui.last.external.project"/>
 	<section name="RefactoringWizard.preview">
 		<item value="600" key="width"/>
 		<item value="400" key="height"/>

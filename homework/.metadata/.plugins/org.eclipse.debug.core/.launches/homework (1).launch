@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/3、参考下面的程序，是修改程序，捕获相关异常，使得程序能正常运行（提示：用错误数据测试，即可的得到异常类名，运行时主方法参数输入abc测试）/src/test/homework.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="test.homework"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="3、参考下面的程序，是修改程序，捕获相关异常，使得程序能正常运行（提示：用错误数据测试，即可的得到异常类名，运行时主方法参数输入abc测试）"/>
+</launchConfiguration>
