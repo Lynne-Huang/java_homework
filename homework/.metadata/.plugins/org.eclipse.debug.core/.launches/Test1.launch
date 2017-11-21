@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/workspace/homework0926/1.输入2数求和/src/booktest/test1.java"/>
+<listEntry value="/1、写一个方法判断三个参数是否能构成一个三角形，如果不能则抛出异常IllegalArgumException，显示异常信息“不能构成三角形”，如果可以构成则输出三角形三个边长，在主方法中得到命令行输入三个数，调用此方法，并捕获异常。/src/homework/test1.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="booktest.test1"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="workspace"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="homework.test1"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="3 4 5"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="1、写一个方法判断三个参数是否能构成一个三角形，如果不能则抛出异常IllegalArgumException，显示异常信息“不能构成三角形”，如果可以构成则输出三角形三个边长，在主方法中得到命令行输入三个数，调用此方法，并捕获异常。"/>
 </launchConfiguration>
