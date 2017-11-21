@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item value="filter_imports;" key="filters_last_used"/>
-	<item value="D:\JAVA\java_homework\homework\20171106\1、写一个方法判断三个参数是否能构成一个三角形，如果不能则抛出异常IllegalArgumException，显示异常信息“不能构成三角形”，如果可以构成则输出三角形三个边长，在主方法中得到命令行输入三个数，调用此方法，并捕获异常。" key="org.eclipse.jdt.ui.last.external.project"/>
+	<item value="D:\JAVA\java_homework\homework\20171106\2、编写程序，要求输入若干整数，输入的同时计算前面输入各数的乘积，如乘积超过10000，则认为是异常，捕获并处理这个异常，输出信息。" key="org.eclipse.jdt.ui.last.external.project"/>
 	<section name="DialogBounds_SuperInterfaceSelectionDialog">
 		<item value="535" key="DIALOG_WIDTH"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
