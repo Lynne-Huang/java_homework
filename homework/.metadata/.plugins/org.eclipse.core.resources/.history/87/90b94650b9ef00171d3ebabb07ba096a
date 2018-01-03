@@ -1,0 +1,20 @@
+package LinkList;
+import java.util.*;
+public class LinkList_Demo {
+	private LinkedList list = new LinkedList();
+	public static void main(String[] args){
+		linklist alist = linklist();
+	}
+	public class linklist{
+
+		public void add(Object obj){
+			list.add(obj);
+		}
+		public Object get(){
+			return list.removeLast();
+		}
+		public boolean isEmpty(){
+			return list.isEmpty();
+		}
+		}
+}

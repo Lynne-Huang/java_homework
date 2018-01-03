@@ -1,0 +1,13 @@
+import java.util.*;;
+/*
+ * 3、利用HashMap类对象存储公司电话号码簿，
+ * 其中包含公司的电话号码和公司名称，
+ * 然后删除一个公司和查询一个公司。*/
+public class HashMap_demo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

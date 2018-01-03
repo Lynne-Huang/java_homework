@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/3、编写一个java应用程序，集体要求如下：/src/test.java"/>
+<listEntry value="/2.6、 声明一个一维数组，其长度为5，利用循环对数组元素进行赋值，然后再利用另一个循环逆序输出数组元素的内容。/src/test.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="test"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="3、编写一个java应用程序，集体要求如下："/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="2.6、 声明一个一维数组，其长度为5，利用循环对数组元素进行赋值，然后再利用另一个循环逆序输出数组元素的内容。"/>
 </launchConfiguration>

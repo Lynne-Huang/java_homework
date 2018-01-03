@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/20171023/src/test/Graduate.java"/>
+<listEntry value="/3.7、编写一个Java程序，在程序中定义一个MyPlus类，MyPlus类有三个plus()方法，分别对不同的参数进行求和。/src/test/Graduate.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="test.Graduate"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="20171023"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="3.7、编写一个Java程序，在程序中定义一个MyPlus类，MyPlus类有三个plus()方法，分别对不同的参数进行求和。"/>
 </launchConfiguration>

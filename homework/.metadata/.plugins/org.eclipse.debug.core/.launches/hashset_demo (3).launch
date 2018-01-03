@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/5.1、利用随机函数生成10个随机数，并将它们分别存入到一个HashSet 和TreeSet中，然后输出，比较结果。/src/homework/hashset_demo.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="homework.hashset_demo"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="5.1、利用随机函数生成10个随机数，并将它们分别存入到一个HashSet 和TreeSet中，然后输出，比较结果。"/>
+</launchConfiguration>

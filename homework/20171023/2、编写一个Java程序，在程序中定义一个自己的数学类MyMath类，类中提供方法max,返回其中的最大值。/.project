@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>2、编写一个Java程序，在程序中定义一个自己的数学类MyMath类，类中提供方法max,返回其中的最大值。</name>
+	<name>3.9、编写一个Java程序，在程序中定义一个自己的数学类MyMath类，类中提供方法max,返回其中的最大值。</name>
 	<comment></comment>
 	<projects>
 	</projects>

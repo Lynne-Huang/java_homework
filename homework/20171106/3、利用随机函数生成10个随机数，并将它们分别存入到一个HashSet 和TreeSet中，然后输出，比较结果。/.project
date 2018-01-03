@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>3、利用随机函数生成10个随机数，并将它们分别存入到一个HashSet 和TreeSet中，然后输出，比较结果。</name>
+	<name>5.1、利用随机函数生成10个随机数，并将它们分别存入到一个HashSet 和TreeSet中，然后输出，比较结果。</name>
 	<comment></comment>
 	<projects>
 	</projects>

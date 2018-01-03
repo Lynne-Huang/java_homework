@@ -1,0 +1,81 @@
+
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.Set;
+
+public class company {
+	public static void main(String[] args) {
+		Map map=new HashMap();
+		
+		map.put("本田", "123456");
+		map.put("名爵", "54855");
+		map.put("奥迪", "151584");
+		map.put("奔驰", "154752");
+		map.put("三菱", "1545245");
+		
+		map.remove("本田");
+		
+		Set set =map.keySet();
+		Iterator it = set.iterator();
+		while (it.hasNext()) {
+			Object obj = it.next();
+			System.out.println("公司名称:"+obj+"   "+"公司电话:"+map.get(obj));
+		}
+    System.out.println();
+    System.out.println("请输入要查询的公司名称:");
+    Scanner scanner=new Scanner(System.in);
+    String s=scanner.next();
+    System.out.println("公司号码是:");
+System.out.println(map.get(s));    
+System.out.println();
+	}
+}
+第四题：
+package dome1;
+
+import java.util.*;
+public class select {
+	public static void main(String[] args){
+		String text="Java is certainly a good programming language. "+
+		"Java was never just a language. Java is a whole platform. "+
+		"Java has a lot of nice language features. "+
+		"Java 2D was designed so that simple operations are simple and complex operations are feasible.";
+		
+		int count=0;
+		int flag[]={0,0,0};
+		Map hashMap=new HashMap();
+		StringTokenizer st=new StringTokenizer(text,". ");
+		String key[]={"Java","language","simple"};
+		while(st.hasMoreTokens()){
+			String k=st.nextToken();
+			for(int i=0;i<3;i++){
+				if(k.equals(key[i])){
+					flag[i]=1;
+					if(hashMap.get(k)!=null){
+						count=((Integer)hashMap.get(k)).intValue();
+						count++;
+						hashMap.put(k, new Integer(count));
+						}
+					else{
+						hashMap.put(k, new Integer(1));
+						}
+					}
+				}
+			}
+		for(int i=0;i<3;i++){
+			if(flag[i]==0)
+				hashMap.put(key[i], new Integer(0));
+			}
+		Map map=new TreeMap(hashMap);
+		Set set=map.entrySet();
+		Iterator iterator=set.iterator();
+		System.out.println("需要统计的文本为：");
+		System.out.println(text);
+		System.out.println("以下为要统计的单词及出现的次数(按次数从高到低排列)：");
+		while(iterator.hasNext()){
+			System.out.println(iterator.next());
+		}
+	}
+}

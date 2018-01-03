@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/5.4、利用HashMap类对象存储公司电话号码簿，其中包含公司的电话号码和公司名称，然后删除一个公司和查询一个公司。/src/HashMap_demo.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="HashMap_demo"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="5.4、利用HashMap类对象存储公司电话号码簿，其中包含公司的电话号码和公司名称，然后删除一个公司和查询一个公司。"/>
+</launchConfiguration>

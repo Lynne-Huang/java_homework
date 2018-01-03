@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/2.4、虚拟计算器，利用switch语句来判断要惊醒的运算，输入运算数，再输出计算后的结果。/src/calculate.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="calculate"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="2.4、虚拟计算器，利用switch语句来判断要惊醒的运算，输入运算数，再输出计算后的结果。"/>
+</launchConfiguration>

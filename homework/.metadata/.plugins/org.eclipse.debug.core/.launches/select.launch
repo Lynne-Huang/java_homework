@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/5.5、从下面文本中计算单词“Java”、“language”、“simple”的出现次数，并按次数大小从小输出结果。文本内容为：/src/select.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="select"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="5.5、从下面文本中计算单词“Java”、“language”、“simple”的出现次数，并按次数大小从小输出结果。文本内容为："/>
+</launchConfiguration>

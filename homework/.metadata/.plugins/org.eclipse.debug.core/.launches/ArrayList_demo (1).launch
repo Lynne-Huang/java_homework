@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/5.2、一个ArrayList对象aList中有若干个字符串元素，现在遍历该ArrayList对象，删除其中所有值为abc的字符串元素。/src/ArrayList/ArrayList_demo.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ArrayList.ArrayList_demo"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="5.2、一个ArrayList对象aList中有若干个字符串元素，现在遍历该ArrayList对象，删除其中所有值为abc的字符串元素。"/>
+</launchConfiguration>

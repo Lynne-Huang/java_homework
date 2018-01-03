@@ -1,0 +1,29 @@
+package ArrayList;
+import java.util.*;
+/*
+ * 1、一个ArrayList对象aList中有若干个字符串元素，
+ * 现在遍历该ArrayList对象，删除其中所有值为abc的字符串元素。*/
+public class demo {
+
+	public static <E> void main(String[] args) {
+		// TODO Auto-generated method stub
+		List list = new ArrayList();
+		list.add("abc");
+		list.add("b");
+		list.add("c");
+		list.add(11);
+		list.add("11");
+		list.add("abc");
+		list.add(325);
+
+		list.remove("abc");
+		list.remove("abc");
+		Iterator it=list.iterator();
+		while(it.hasNext()){
+			Object obj =it.next();
+			System.out.println(obj);
+		}
+		
+	}
+
+}

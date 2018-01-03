@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/1.自己定义一个时间类，类名为MyTime，可以调整时分秒/src/TestMyTime.java"/>
+<listEntry value="/3.10、自己定义一个时间类，类名为MyTime，可以调整时分秒/src/TestMyTime.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="TestMyTime"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="1.自己定义一个时间类，类名为MyTime，可以调整时分秒"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="3.10、自己定义一个时间类，类名为MyTime，可以调整时分秒"/>
 </launchConfiguration>

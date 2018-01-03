@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/2.3、设计一个程序，实现下面公式的求解，根据用户输入的X的值计算Y的值，并输出。/src/Qy.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Qy"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="2.3、设计一个程序，实现下面公式的求解，根据用户输入的X的值计算Y的值，并输出。"/>
+</launchConfiguration>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;homework.test&apos; to &apos;hashset_demo&apos;&#x0D;&#x0A;- Original project: &apos;5.1、利用随机函数生成10个随机数，并将它们分别存入到一个HashSet 和TreeSet中，然后输出，比较结果。&apos;&#x0D;&#x0A;- Original element: &apos;homework.test&apos;&#x0D;&#x0A;- Renamed element: &apos;homework.hashset_demo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;test&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;homework{test.java[test" matchStrategy="1" name="hashset_demo" qualified="false" references="true" similarDeclarations="false" stamp="1514891104757" textual="false" version="1.0"/>
+</session>

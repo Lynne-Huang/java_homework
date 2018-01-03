@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/2.2、给出一个分数，按不同的分数段将其评定为A、B、C、D和E五个档次之一。/src/abcd.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="abcd"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="2.2、给出一个分数，按不同的分数段将其评定为A、B、C、D和E五个档次之一。"/>
+</launchConfiguration>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/2、编写程序，要求输入若干整数，输入的同时计算前面输入各数的乘积，如乘积超过10000，则认为是异常，捕获并处理这个异常，输出信息。/src/自定义异常/homework2.java"/>
+<listEntry value="/4.6、编写程序，要求输入若干整数，输入的同时计算前面输入各数的乘积，如乘积超过10000，则认为是异常，捕获并处理这个异常，输出信息。/src/自定义异常/homework2.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="自定义异常.homework2"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="2、编写程序，要求输入若干整数，输入的同时计算前面输入各数的乘积，如乘积超过10000，则认为是异常，捕获并处理这个异常，输出信息。"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="4.6、编写程序，要求输入若干整数，输入的同时计算前面输入各数的乘积，如乘积超过10000，则认为是异常，捕获并处理这个异常，输出信息。"/>
 </launchConfiguration>
