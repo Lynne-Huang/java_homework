@@ -1,0 +1,10 @@
+package lesson_demo;
+
+public class ReadByteFile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

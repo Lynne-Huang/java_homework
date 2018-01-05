@@ -1,0 +1,28 @@
+package lesson_demo;
+import java.io.*;
+/*以字节方式打开并读取文件中的内容，显示在屏幕上*/
+public class ReadByteFile {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		try{
+			FileInputStream fin =new FileInputStream("ReadByteFile.java");
+			int num=0,n=512;
+			byte buffer[] = new byte[n];
+			while(((num=fin.read(buffer,0,n))!=-1)&&(num>0))
+			{
+				System.out.println(new String(buffer,0,num));
+			}
+			System.out.println();
+			fin.close();
+		}
+		catch(IOException ioe)
+		{
+			System.out.println(ioe);
+		}
+		catch(Exception e){
+			System.out.println(e);
+		}
+	}
+
+}

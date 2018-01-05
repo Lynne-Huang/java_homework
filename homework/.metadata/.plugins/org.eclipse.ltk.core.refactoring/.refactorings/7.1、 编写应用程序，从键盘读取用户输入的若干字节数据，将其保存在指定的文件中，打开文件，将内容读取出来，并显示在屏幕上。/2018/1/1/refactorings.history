@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;lesson_demo.demo7_1&apos; to &apos;ReadByteFile&apos;&#x0D;&#x0A;- Original project: &apos;7.1、 编写应用程序，从键盘读取用户输入的若干字节数据，将其保存在指定的文件中，打开文件，将内容读取出来，并显示在屏幕上。&apos;&#x0D;&#x0A;- Original element: &apos;lesson_demo.demo7_1&apos;&#x0D;&#x0A;- Renamed element: &apos;lesson_demo.ReadByteFile&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;demo7_1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;lesson_demo{demo7_1.java[demo7_1" matchStrategy="1" name="ReadByteFile" qualified="false" references="true" similarDeclarations="false" stamp="1514991617670" textual="false" version="1.0"/>
+</session>

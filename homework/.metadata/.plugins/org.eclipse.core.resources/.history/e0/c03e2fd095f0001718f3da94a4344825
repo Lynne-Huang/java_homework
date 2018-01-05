@@ -1,0 +1,34 @@
+package homework;
+
+import java.io.*;
+
+/*1、 编写应用程序，从键盘读取用户输入的若干字节数据，
+ * 将其保存在指定的文件中，打开文件，将内容读取出来，
+ * 并显示在屏幕上。*/
+/*一个输入、一个字节数组、输入流输出流*/
+public class WriteCharFile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try
+		{
+		int n=512;
+		byte i[]=new byte[n];
+		System.out.println("Please input text：");
+		int num = System.in.read(i);
+		FileOutputStream fout = new FileOutputStream("d:/JAVA/java_homework/homework/20171122/7.1、 编写应用程序，从键盘读取用户输入的若干字节数据，将其保存在指定的文件中，打开文件，将内容读取出来，并显示在屏幕上。/a.txt");
+		fout.write(i, 0, num);
+		fout.close();
+		System.out.println("Save to myfile.txt");
+		}
+		catch(IOException ioe)
+		{
+			System.out.println(ioe);
+		}
+		catch(Exception e)
+		{
+			System.out.println(e);
+		}
+	}
+
+}
